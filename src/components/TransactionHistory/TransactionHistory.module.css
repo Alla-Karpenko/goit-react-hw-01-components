@@ -1,0 +1,28 @@
+.transactionHistory {
+    display: block;
+    border-radius: 20px;
+    font-weight: bolder ;
+    box-shadow: 0 4px 8px 10px rgba(7, 241, 241, 0.2);
+    padding: 0;
+    margin: 40px;
+    width: 600px;
+    height: 900px;
+}
+.transactionList {
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+    height: 40px;
+    box-shadow: 0 2px 2px 5px rgba(7, 241, 241, 0.2);
+    margin-left: 50px;
+    padding-top: 10px;
+   background-color: rgb(125, 145, 153);
+}
+.title {
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+    height: 40px;
+    margin-top: 15px;
+    margin-left: 60px;
+}
