@@ -12,7 +12,7 @@ const Profile = ({name, tag, location, avatar, stats: {followers, views, likes}}
         className={styles.avatar}
       />
       <p className="name">{name}</p>
-      <p className="tag">{tag}</p>
+      <p className="tag">@{tag}</p>
       <p className="location">{location}</p>
      </div>
   
